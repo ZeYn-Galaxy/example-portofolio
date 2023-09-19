@@ -1,0 +1,10 @@
+#beranda .row {
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+}
+
+
+img {
+    border-radius: 15px;
+}
